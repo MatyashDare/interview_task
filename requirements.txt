@@ -1,0 +1,11 @@
+datasets
+nltk
+numpy
+matplotlib
+pytest
+sacremoses
+sentencepiece
+torch
+tqdm
+transformers
+wandb
